@@ -7,3 +7,5 @@ Simple code to issue BSOD.
 ```c
 GenerateBSOD([Error Code (int) ]);
 ```
+
+note:He crashed my pc!
